@@ -1,5 +1,10 @@
 # Tendencia do Endividamento/comprometimento de renda das famílias brasileiras (Atividade 1):
 
+## Alunos:
+- Lucas Willian de Souza Serpa
+- Marlon de Souza
+
+
 
 <div align="center">
 
